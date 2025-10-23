@@ -1,0 +1,13 @@
+.mainPage {
+  background-color: #1abc9c;
+  color: #eee;
+  height: 90vh;
+}
+.marginPage {
+  padding-top: 78px;
+}
+.navbar-nav .nav-link.active {
+  color: tomato !important;
+  background-color: aquamarine;
+  border-radius: 20px;
+}

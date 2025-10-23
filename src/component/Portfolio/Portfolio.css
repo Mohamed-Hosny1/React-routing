@@ -1,0 +1,6 @@
+.portfolioImg:hover {
+  .imgLayer {
+    opacity: 100% !important;
+    transition: all 0.6s ease;
+  }
+}

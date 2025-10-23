@@ -1,0 +1,17 @@
+.navbar {
+  animation: progress 1s linear;
+  animation-timeline: scroll();
+}
+
+@keyframes progress {
+  0% {
+    padding: 25px;
+  }
+  50% {
+    padding: 20px;
+  }
+
+  100% {
+    padding: 10;
+  }
+}
