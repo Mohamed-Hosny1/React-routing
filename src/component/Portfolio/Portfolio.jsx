@@ -110,11 +110,10 @@ export default function Portfolio() {
             </div>
           </div>
         </div>
-
         <div
           className="modal fade"
           id="portfolio1"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="exampleModalLabel"
           aria-hidden="true"
         >
@@ -127,7 +126,7 @@ export default function Portfolio() {
         <div
           className="modal fade"
           id="portfolio2"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="exampleModalLabel"
           aria-hidden="true"
         >
@@ -140,7 +139,7 @@ export default function Portfolio() {
         <div
           className="modal fade"
           id="portfolio3"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="exampleModalLabel"
           aria-hidden="true"
         >
